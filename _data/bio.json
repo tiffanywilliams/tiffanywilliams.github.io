@@ -29,17 +29,22 @@
   },
   "interests": [
     {
-      "name": "game development",
+      "name": "Game Development",
       "keywords": [
       ]
     },
     {
-      "name": "cybersecurity",
+      "name": "UI Design",
       "keywords": [
       ]
     },
     {
-      "name": "neural networks",
+      "name": "AI",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Software Development",
       "keywords": [
       ]
     }
