@@ -76,6 +76,9 @@
       "endDate": "Present",
       "gpa": "3.9",
       "courses": [
+        "Discrete Mathematics I", "Discrete Mathematics II",
+        "Introduction to Computer Science I", "Introduction to Computer Science II",
+        "Algorithms", "Software Engineering I"
       ]
     }
   ],
