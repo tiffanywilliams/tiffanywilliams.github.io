@@ -11,6 +11,7 @@ labels:
   - Event Planning
 summary: I helped organize an event that taught kids how to do CPR and how to use an AED. 
 ---
+<img class="ui medium right floated rounded image" src="/images/hawaiiheart.jpeg">
 
 OurBeat CPR was a semester project where students of Kalani’s Health Academy would organize an event at an elementary or middle school to teach the kids what to do if they witness someone going into cardiac arrest. The children are taught how to recognize cardiac arrest, how to give chest compressions, and how to use an AED. Everything from school release forms to transportation is all handled by the Health Academy students, with the supervision of the instructor. 
 
