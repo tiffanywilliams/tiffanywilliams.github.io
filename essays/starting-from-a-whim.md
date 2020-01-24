@@ -9,7 +9,7 @@ labels:
   - Java
 ---
 
-
+## Last Minute Decision
 I initially enrolled in the University of Hawaii at Manoa as a Biology major with a goal to get into medical school. I had been dead-set on going into the medical field since I started high school. However, that all changed in a single month before I even started my first semester at college. I found myself suddenly in need of a new major when a good friend of mine, who I knew to be wonderfully passionate about coding, suggested that I should try my hand at computer science. And so, I did. 
 
 Admittedly, there’s still a lot that I don’t know about this field in terms of its specialties. Game development and cybersecurity are the two that I noticed the most. I don’t have much experience with the latter, but I did try my hand at making a few simple games in an introductory computer science class. It was fun, however, what I made can only be described as very rudimentary and crude. While game development is a fun practice in itself, I find its ability to create a compelling and interactive story its most compelling aspect. 
