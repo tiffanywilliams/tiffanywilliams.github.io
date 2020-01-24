@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/wizardW.png
-title: Cotton
+title: Wizarding World
 permalink: projects/ics11prj
 # All dates must be YYYY-MM-DD format!
 date: 2019-04-29
