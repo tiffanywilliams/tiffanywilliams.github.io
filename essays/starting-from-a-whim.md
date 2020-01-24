@@ -5,8 +5,9 @@ title: Starting from a Whim
 # All dates must be YYYY-MM-DD format!
 date: 2020-01-23
 labels:
-  - Javascript
-  - Java
+  - Learning
+  - Development
+  - Goals
 ---
 
 ## A Last Minute Decision
