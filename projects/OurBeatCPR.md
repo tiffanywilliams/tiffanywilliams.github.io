@@ -1,9 +1,9 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
+image: images/hawaiiheart.jpeg
 title: OurBeat CPR
-permalink: projects/micromouse
+permalink: projects/ourbeatcpr
 # All dates must be YYYY-MM-DD format!
 date: 2017-11-29
 labels:
@@ -11,13 +11,6 @@ labels:
   - Event Planning
 summary: I helped organize an event that taught kids how to do CPR and how to use an AED. 
 ---
-
-<div class="ui small rounded images">
-  <img class="ui image" src="../images/micromouse-robot.png">
-  <img class="ui image" src="../images/micromouse-robot-2.jpg">
-  <img class="ui image" src="../images/micromouse.jpg">
-  <img class="ui image" src="../images/micromouse-circuit.png">
-</div>
 
 OurBeat CPR was a semester project where students of Kalani’s Health Academy would organize an event at an elementary or middle school to teach the kids what to do if they witness someone going into cardiac arrest. The children are taught how to recognize cardiac arrest, how to give chest compressions, and how to use an AED. Everything from school release forms to transportation is all handled by the Health Academy students, with the supervision of the instructor. 
 
