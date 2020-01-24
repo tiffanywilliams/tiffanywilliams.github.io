@@ -11,7 +11,7 @@ labels:
 summary: I played in a piano recital. 
 ---
 
-<img class="ui medium right floated rounded image" src="/images/images/orvis.jpg">
+<img class="ui medium right floated rounded image" src="/images/orvis.jpg">
 
 The Spring Piano Recital was an event I attended and played in while at Kalani, 2018. It was held at the Orvis Auditorium. We had a couple of months to prepare for the recital and spent most of our class time practicing for it. I also spent time outside of class to practice since I did have a longer piece. While we had an instructor to help us, it was mostly independent practice. 
 
