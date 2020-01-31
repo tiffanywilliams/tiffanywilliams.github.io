@@ -9,6 +9,8 @@ labels:
   - Learning
 ---
 
+<img class="ui medium right floated rounded image" src="/images/questions.jpg">
+
 ## Benefits of a Better Question
 One look at Stack Overflow and you can see the sheer amount of questions that are asked on the daily. It is a lot. With so many questions it’s unlikely that all of them would get an answer. However, coming in and presenting the public with a first-class inquiry would certainly help your chances of getting a constructive response. Model questions naturally show the sincerity and effort that are put into them, which are more compelling to prospective respondents than questions that don’t. In fact, as you cultivate your top-notch question, you may come to find the solution on your own. 
 
