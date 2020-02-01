@@ -8,7 +8,7 @@ permalink: projects/springrecital
 date: 2017-05-07
 labels:
   - Piano
-summary: I played in a piano recital. 
+summary: I performed 'Mariage D'amour'composed by Paul de Senneville in a Spring Recital.
 ---
 
 <img class="ui medium right floated rounded image" src="/images/orvis.jpg">
