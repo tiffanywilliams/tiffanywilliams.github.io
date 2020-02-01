@@ -7,16 +7,15 @@
 
 // Customize the background color
 body {
-  background-color: red;
+  background-color: lightsteelblue;
 }
 
 // Customize the menubar color
 .ui.menu {
-  background: red;
+  background: lightskyblue;
 }
 
 // Customize the home page icon colors
 .icon-color {
-  color: red;
+  color: darken(lightsteelblue, 20%);
 }
-
