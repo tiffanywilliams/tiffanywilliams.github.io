@@ -9,6 +9,8 @@ labels:
   - Javascript
 ---
 
+<img class="ui medium right floated rounded image" src="/images/javascript.jpg">
+
 ## Hello Javascript
 As of now, the only other language I know of is Java, and from what I can tell the basics of Javascript are very similar to Java. However, I do feel that Javascript is more lenient as it doesn’t require type specification. It does give me a lot more freedom in that sense. With that being said, ES6 is something that will take me some time to get used to. Arrow function and destructuring syntax were completely new to me, and they are something that I’m not quite comfortable with using just yet. 
 
