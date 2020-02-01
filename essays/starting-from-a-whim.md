@@ -9,7 +9,6 @@ labels:
   - Development
   - Goals
 ---
-<img class="ui medium right floated rounded image" src="/images/whim.jpg">
 
 ## A Last Minute Decision
 I initially enrolled in the University of Hawaii at Manoa as a Biology major with a goal to get into medical school. I had been dead-set on going into the medical field since I started high school. However, that all changed in a single month before I even started my first semester at college. I found myself suddenly in need of a new major when a good friend of mine, who I knew to be wonderfully passionate about coding, suggested that I should try my hand at computer science. And so, I did. 
