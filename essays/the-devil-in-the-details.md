@@ -10,7 +10,7 @@ labels:
   - Coding Standards
 ---
 
-<img class="ui image"src="/images/code-standard.png">
+<img class="ui image" src="/images/code-standard.png">
 
 ## Devil in the Details
 Every language has a standardized pattern and Javascript is no exception. Yes, ESLint may be a bit finicky but their finickiness is for the better. If everyone has their own way of writing Javascript, there would be a definite struggle come time for them to share their code. If one opts to write a few lines of long code–– code that squeezes as much as it can into one line––then the next person to lay eyes on it won’t have a great time reading it. I know that I won't. Having code be readable and easy on the eyes gets so much more important the more lines you have. If the program ends up taking a thousand lines, then having even the minute details like the right spacing or indentation would help make everything more readable. 
