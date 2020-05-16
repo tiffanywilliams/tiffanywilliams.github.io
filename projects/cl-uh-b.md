@@ -17,7 +17,7 @@ summary: I helped developed a web application called 'CL-UH-B' which helps UH st
 
 [CL-UH-B](https://cl-uh-b.github.io/) stands for Club Listings at the University of Hawaii Browsery and it’s a website that offers UHM students an easy way to find clubs that align with their interests. CL-UH-B makes sifting through the 280 clubs that are offered here at Manoa a little bit easier. With CL-UH-B, users can filter clubs by interests, search for clubs by name, favorite the clubs that they like, and add their own clubs to the database. 
 
-I worked in a group with three other people: [Kevin Nguyen](https://github.com/kvndngyn), [Anh Le](https://github.com/lekanh), and [Julian Kim](https://github.com/julianki-cs). My contributions to  CL-UH-B primarily involved the functional components that related to Club Owners and Admins. This includes the Submissions page, the Admin page, the MyClubs pending/denied/deleted status, and the add/delete functionality. 
+I worked in a group with three other people: [Kevin Nguyen](https://github.com/kvndngyn), [Anh Le](https://github.com/lekanh), and [Julian Kim](https://github.com/julianki-cs). My contributions to  CL-UH-B primarily involved the functional components that related to Club Owners and Admins. This includes the Submissions page, the Admin page, the MyClubs pending/denied/deleted status, and the add/delete functionality. Source code to the website can be found [here](https://github.com/cl-uh-b/cl-uh-b.github.io).
 
 <img class="ui massive center image" src="/images/myclubstatus.png">
 <img class="ui massive center image" src="/images/submission.png">
