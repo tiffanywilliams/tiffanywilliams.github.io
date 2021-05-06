@@ -14,7 +14,7 @@ When I registered for Software Engineering II, I expected it to be, more-or-less
 ### Imposter Syndrome
 After taking Software Engineering I a year prior, one would assume that I would be properly equipped for this class, but this could be further from the truth. I didn’t take the software engineering courses in succession, but rather taking the second level class the following year. The semester between these two classes was absolutely detrimental to me as I had forgotten most of what I learned in the prior course. This combined with the higher stakes quickly led me to feel overwhelmed and inadequate––a feeling that others could describe as “imposter syndrome.” Many others in computer science experience this feeling. This feeling is especially prominent in recently graduated employees. I, however, never expected to encounter this feeling so soon as an undergraduate.
 
-<img class="ui large image" src="/images/imposter.jpeg">
+<img class="ui large center image" src="/images/imposter.jpeg">
 
 When we first got into teams, I was worried that I would only be deadweight, or rather, I felt like I was deadweight, and I feared that my teammates would come to dislike me because I was so lacking. I was anxious each meeting when we distributed tasks. I didn’t want to be assigned a task that was beyond my ability because I didn’t want to be stuck and delay others’ progress, but at the same time I wanted to make myself useful in some way. It was a dilemma of wanting to be useful but knowing that my skills weren’t sufficient. As a result, I primarily worked on graphic designs and front-end development.
 
