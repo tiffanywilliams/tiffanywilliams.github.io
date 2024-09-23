@@ -5,7 +5,7 @@ image: images/EImpactLogo.png
 title: E-Impact
 permalink: projects/e-impact
 # All dates must be YYYY-MM-DD format!
-date: 2020-05-15
+date: 2021-05-15
 labels:
   - Software Engineering
   - Web Application Development
