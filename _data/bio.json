@@ -68,7 +68,8 @@
   "projects": [
     {
       "name": "RNDVOUS: A Second-Hand Fashion Social Commerce Marketplace",
-      "startDate": "Fall 2023",
+      "startDate": "2023-08-20",
+      "endDate": "2023-12-18",
       "description": "Collaborated with a group of 4 in a semester class to design, develop, and deploy a social commerce marketplace app that focuses on clothes swapping for second-hand fashion items",
       "highlights": ["Flutter", "Dart", "Full-Stack"],
       "url": "https://rndvouz.github.io/"
@@ -81,7 +82,7 @@
       "studyType": "B.A.",
       "startDate": "2018-08-20",
       "endDate": "2023-12-18",
-      "gpa": "3.9",
+      "score": "3.9",
       "courses": [
         "Discrete Mathematics I & II", "Introduction to Computer Science I & II", 
         "Algorithms", "Software Engineering I & II", "Database Systems I", 
@@ -96,7 +97,7 @@
       "studyType": "B.B.A.",
       "startDate": "2018-08-20",
       "endDate": "2023-12-18",
-      "gpa": "3.9",
+      "score": "3.9",
       "courses": [
         "Introduction to Accounting I & II", "Intermediate Financial Accounting I & II", 
         "Statistical Analysis for Business Decisions", "Information Systems for Global Business Environment", 
