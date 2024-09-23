@@ -11,7 +11,7 @@ labels:
   - Web Application Development
   - Issue Driven Project Management
   - Group Project 
-summary: I helped developed a web application called 'CL-UH-B' which helps UH students find clubs that they're interested in.
+summary: Helped developed a web application called 'CL-UH-B' which helps UH students find clubs that they're interested in.
 ---
 <img class="ui small right floated image" src="/images/cluhbicon.png">
 

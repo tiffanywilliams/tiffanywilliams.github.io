@@ -10,7 +10,7 @@ labels:
   - Software Engineering
   - Mobile Application Development
   - Flutter
-  - Sustainability
+  - Environment & Sustainability
 summary: Designed, developed, and deployed a social commerce marketplace app for second-hand fashion items.
 ---
 
