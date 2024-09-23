@@ -20,7 +20,7 @@ E-Impact is a web application aimed to address the pressing issue of climate cha
 
 The primary objective of E-Impact is to inspire awareness and action regarding greenhouse gas emissions. By allowing users to track their personal and community-level impacts, the application provides valuable insights into individual contributions to climate change. Users can visualize their data through graphs and charts on their dashboard, helping them understand the significance of their actions. 
 
-<img class="ui small left floated image" src="/images/eimpactdashboard.png">
+<img class="ui massive center image" src="/images/eimpactdashboard.png">
 
 Features
 - Dashboard: A personalized space where users can view their impact data through interactive graphs and charts.
