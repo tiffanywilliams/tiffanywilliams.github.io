@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Tiffany Williams",
-    "label": "Student",
+    "label": "University of Hawaii at Manoa Alumni",
     "picture": "https://github.com/tiffanywilliams/tiffanywilliams.github.io/blob/master/images/Williams,Tiffany.jpg?raw=true",
-    "email": "tynwilli@hawaii.edu",
+    "email": "tiffanynhiwilliams@gmail.com",
     "phone": "",
     "website": "https://tiffanywilliams.github.io",
-    "summary": "I am studying for a B.A. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in December 2023.",
+    "summary": "Graduated from the University of Hawaii at Manoa with a BA in Computer Science and a BBA in Accounting.",
     "location": {
       "address": "",
       "postalCode": "96706",
@@ -16,86 +16,93 @@
     },
     "profiles": [
       {
-        "network": "github",
+        "network": "GitHub",
         "username": "tiffanywilliams",
         "url": "https://github.com/tiffanywilliams"
       },
       {
-        "network": "linkedin",
+        "network": "LinkedIn",
         "username": "tiffanywilliams",
         "url": "https://www.linkedin.com/in/tiffany-williams-53b65719b/"
       }
     ]
   },
   "interests": [
-    {
-      "name": "Web Application Development",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "UI Design",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "Software Development",
-      "keywords": [
-      ]
-    }
+    { "name": "Application Development", "keywords": [] },
+    { "name": "UI Design", "keywords": [] },
+    { "name": "Software Development", "keywords": [] }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "level": "",
       "keywords": [
-        "Java",
-        "Javascript",
-        "Semantic-React",
-        "Semantic",
-        "Meteor"
+        "Java", "JavaScript", "TypeScript", "Dart", "Python", 
+        "C", "Semantic-React", "Semantic", "Flutter", "Meteor", 
+        "Angular", "Express"
       ]
     },
     {
+      "name": "Databases",
+      "keywords": ["SQL", "MongoDB"]
+    },
+    {
       "name": "Toolsets/OS",
-      "level": "",
       "keywords": [
-        "MacOS",
-        "Git/GitHub"
+        "MacOS", "Windows", "Linux", "Git/GitHub", 
+        "Sourcetree", "Postman", "Studio3T", 
+        "Visual Studio/Visual Studio Code"
       ]
+    }
+  ],
+  "work": [
+    {
+      "name": "Department of Information Technology for the City & County of Honolulu",
+      "position": "Computer Programmer II",
+      "url": "https://www8.honolulu.gov/it/",
+      "startDate": "2023-01-17",
+      "endDate": "2024-09-30",
+      "summary": "MEAN stack developer, enhancing existing software for city projects like bicycle and motor vehicle registration. Developed RESTful API endpoints and assisted with backend/frontend integration.",
+      "highlights": ["MEAN Stack", "RESTful API", "Full-Stack"]
+    }
+  ],
+  "projects": [
+    {
+      "name": "RNDVOUS: A Second-Hand Fashion Social Commerce Marketplace",
+      "startDate": "Fall 2023",
+      "description": "Collaborated with a group of 4 in a semester class to design, develop, and deploy a social commerce marketplace app that focuses on clothes swapping for second-hand fashion items",
+      "highlights": ["Flutter", "Dart", "Full-Stack"],
+      "url": "https://rndvouz.github.io/"
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2022)",
+      "area": "Computer Science",
       "studyType": "B.A.",
       "startDate": "2018-08-20",
-      "endDate": "Present",
+      "endDate": "2023-12-18",
       "gpa": "3.9",
       "courses": [
-        "Discrete Mathematics I", "Discrete Mathematics II",
-        "Introduction to Computer Science I", "Introduction to Computer Science II",
-        "Algorithms", "Software Engineering I"
+        "Discrete Mathematics I & II", "Introduction to Computer Science I & II", 
+        "Algorithms", "Software Engineering I & II", "Database Systems I", 
+        "Machine Level & Systems Programming", "Operating Systems", 
+        "Data Networks", "Data Visualization", "Data Science Fundamentals", 
+        "Design for Mobile Devices", "Virtual and Augmented Reality Programming"
       ]
-    }
-  ],
-  "volunteer": [
+    },
     {
-      "organization": "Kapiolani Medical Center for Women and Children",
-      "website": "https://www.hawaiipacifichealth.org/kapiolani/",
-      "position": "Volunteer",
-      "startDate": "2017-02-17",
-      "endDate": "2018-03-09",
-      "summary": "Assisted nurses with patient care."
-    }
-  ],
-  "awards": [
-    {
-      "title": "Manoa Academic Merit Scholarship",
-      "date": "2018-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a high school curriculum with a minimum overall GPA of 3.5 at a Hawai'i public school."
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Accounting",
+      "studyType": "B.B.A.",
+      "startDate": "2018-08-20",
+      "endDate": "2023-12-18",
+      "gpa": "3.9",
+      "courses": [
+        "Introduction to Accounting I & II", "Intermediate Financial Accounting I & II", 
+        "Statistical Analysis for Business Decisions", "Information Systems for Global Business Environment", 
+        "Business Finance", "Accounting Information Systems", "Auditing", 
+        "Accounting Capstones: Managerial, Financial, Auditing & AIS, Tax & Ethics"
+      ]
     }
   ],
   "references": [
