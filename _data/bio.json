@@ -65,7 +65,7 @@
       "highlights": ["MEAN Stack", "RESTful API", "Full-Stack"]
     }
   ],
-  "projects": [
+  "pro2jects": [
     {
       "name": "RNDVOUS: A Second-Hand Fashion Social Commerce Marketplace",
       "startDate": "2023-08-20",
@@ -73,6 +73,28 @@
       "description": "Collaborated with a group of 4 in a semester class to design, develop, and deploy a social commerce marketplace app that focuses on clothes swapping for second-hand fashion items",
       "highlights": ["Flutter", "Dart", "Full-Stack"],
       "url": "https://rndvouz.github.io/"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Miss Direction",
+      "description": "A mapping engine that misguides you",
+      "highlights": [
+        "Won award at AIHacks 2016",
+        "Built by all women team of newbie programmers",
+        "Using modern technologies such as GoogleMaps, Chrome Extension and Javascript"
+      ],
+      "keywords": [
+        "GoogleMaps", "Chrome Extension", "Javascript"
+      ],
+      "startDate": "2016-08-24",
+      "endDate": "2016-08-24",
+      "url": "http://missdirection.example.com",
+      "roles": [
+        "Team lead", "Designer"
+      ],
+      "entity": "Smoogle",
+      "type": "application"
     }
   ],
   "education": [
@@ -104,20 +126,6 @@
         "Business Finance", "Accounting Information Systems", "Auditing", 
         "Accounting Capstones: Managerial, Financial, Auditing & AIS, Tax & Ethics"
       ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor Philip Johnson - University of Hawaii at Manoa",
-      "reference": "johnson@hawaii.edu   |   (808) 956-3489"
-    },
-    {
-      "name": "Kylan Hughes – Department of Information Technology",
-      "reference": "kylan.hughes@honolulu.gov   |   (808) 768-7819"
-    },
-    {
-      "name": "Alan Tong – University of Hawaii at Manoa",
-      "reference": "tongalan@hawaii.edu   |   (808) 754-9351"
     }
   ]
 }
